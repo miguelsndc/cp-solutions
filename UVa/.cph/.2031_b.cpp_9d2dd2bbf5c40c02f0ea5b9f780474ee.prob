@@ -1,0 +1,1 @@
+{"name":"Local: 2031_b","url":"/home/miguelsndc/Documents/competitive-programming-lib/Solutions/UVa/2031_b.cpp","tests":[{"id":1751395711369,"input":"2\n4\n2 1 3 4\n4\n4 2 3 1\n","output":"YES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miguelsndc/Documents/competitive-programming-lib/Solutions/UVa/2031_b.cpp","group":"local","local":true}
